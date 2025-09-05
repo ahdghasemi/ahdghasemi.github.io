@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Our NSF proposal, titled "AERIAL (AI-Embedded Responsive Intelligent Agents with Trajectory-Induced Digital Twin Learning" is accepted by National Science Foundation (NSF). :sparkles:
+Our NSF proposal, titled "*AERIAL (AI-Embedded Responsive Intelligent Agents with Trajectory-Induced Digital Twin Learning*" is accepted by National Science Foundation (NSF). :sparkles:
 
