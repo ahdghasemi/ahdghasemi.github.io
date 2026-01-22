@@ -2,16 +2,17 @@
 layout: about
 title: About
 permalink: /
-subtitle: <p class="text-success"><font size="2">
-Dependable Edge AI for Networked Autonomy <br/>
-Budget-aware inference, graph learning, and protocol-driven evaluation under shift
-</font></p>
+subtitle: |
+  <p class="text-success"><font size="2">
+  Dependable Edge AI for Networked Autonomy <br/>
+  Budget-aware inference, graph learning, and protocol-driven evaluation under shift
+  </font></p>
 
 profile:
   align: right
   image: 20190309_105621_ahmad.jpg
   image_circular: false
-  more_info: >
+  more_info: |
     <p>Department of Electrical & Computer Engineering</p>
     <p>University of Massachusetts Amherst</p>
     <p><mark> aghasemi (at) umass [dot] edu </mark></p>
@@ -21,6 +22,7 @@ latest_posts: false
 selected_papers: true
 social: true
 ---
+
 
 I am a Postdoctoral Research Fellow and Adjunct Faculty in Electrical & Computer Engineering at the University of Massachusetts Amherst. My research builds **dependable Edge AI systems** for **networked, resource-constrained platforms** (IoT/embedded/CPS and multi-agent autonomy), where decisions must be made under hard constraints on **latency, energy, and memory**, and where **dependence, partial observability, and distribution shift** are the default operating conditions. :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1}
 
