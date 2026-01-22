@@ -24,9 +24,25 @@ social: true
 ---
 
 
-I am a Postdoctoral Research Fellow and Adjunct Faculty in Electrical & Computer Engineering at the University of Massachusetts Amherst. My research builds **dependable Edge AI systems** for **networked, resource-constrained platforms** (IoT/embedded/CPS and multi-agent autonomy), where decisions must be made under hard constraints on **latency, energy, and memory**, and where **dependence, partial observability, and distribution shift** are the default operating conditions. :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1}
+I am a Postdoctoral Research Fellow and Adjunct Faculty in Electrical & Computer Engineering at the University of Massachusetts Amherst. My research builds **dependable Edge AI systems** for **networked, resource-constrained platforms** (IoT/embedded/CPS and multi-agent autonomy), where decisions must be made under hard constraints on **latency, energy, and memory**, and where **dependence, partial observability, and distribution shift** are the default operating conditions. 
 
-### Research thesis: make reliability measurable at decision time
+<div style="
+  background: #f6f8fa;
+  border: 1px solid #e5e7eb;
+  border-left: 4px solid #22c55e;
+  padding: 12px 14px;
+  border-radius: 10px;
+  margin-top: 18px;
+  margin-bottom: 12px;
+">
+  <div style="font-size: 0.92rem; font-weight: 700; margin-bottom: 6px;">
+    Research thesis (in one line)
+  </div>
+  <div style="font-size: 0.92rem; line-height: 1.45;">
+    I build <b>dependable Edge AI</b> by making <b>reliability measurable at decision time</b> under <b>hard compute budgets</b> and <b>distribution shift</b>.
+  </div>
+</div>
+
 Most ML pipelines still lean on two convenient assumptions: near-i.i.d. evaluation and unconstrained inference. In deployed edge autonomy, both assumptions break. My work designs for the real regime directly by co-designing:  
 **(i)** dependence-aware reliability signals, **(ii)** computation-aware inference controllers, and **(iii)** protocol-driven validation so systems can report calibrated uncertainty and cost, defer when warranted, and avoid silent failure. :contentReference[oaicite:2]{index=2}
 
