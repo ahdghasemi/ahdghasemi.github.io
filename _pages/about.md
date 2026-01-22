@@ -35,7 +35,7 @@ I am a Postdoctoral Research Fellow and Adjunct Faculty in Electrical & Computer
     border-radius: 10px;
   ">
     <div style="font-size: 0.92rem; font-weight: 700; margin-bottom: 6px;">
-      Research thesis (in one line)
+      Research focus
     </div>
     <div style="font-size: 0.92rem; line-height: 1.45;">
       I build <b>dependable Edge AI</b> by making <b>reliability measurable at decision time</b>
