@@ -14,9 +14,9 @@ My theory-focused work studies the **foundations of machine learning under depen
 - **Minimax learning theory for graph-structured learning (GNNs):** I study how graph topology, dependence, and mixing properties affect the effective sample complexity of message-passing neural architectures. My recent ICLR 2026 paper develops minimax lower bounds and structural regime characterizations for ReLU message-passing GNNs, showing that realistic slowly mixing graphs can induce significantly harder structure-driven rates than classical sample-size scaling would suggest.
 
 - **Structure-aware complexity in generative modeling:** I am extending this line of work toward the **science and theory of generative modeling**, especially:
-* complexity of score estimation in diffusion-based models,
-* error propagation from score estimation to sampling quality,
-* and statistical-computational tradeoffs in sequence-structured settings.
+  - complexity of score estimation in diffusion-based models
+  - error propagation from score estimation to sampling quality
+  - statistical-computational tradeoffs in sequence-structured settings
 
      A central theme is that dependence structure (e.g., graph topology or sequence dependence) can govern both statistical and algorithmic difficulty.
 
