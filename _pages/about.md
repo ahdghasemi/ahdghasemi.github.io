@@ -46,6 +46,10 @@ My work spans two linked threads: **(i)** foundations of learning under dependen
   </div>
 </div>
 
+### Quick pathways
+- **Theory-focused overview (GNNs, minimax learning theory, generative modeling theory):** [Open]({{ '/research-theory/' | relative_url }})
+- **Systems / CPS / Edge AI overview (deployable ML, autonomy, resource-aware inference):** [Open]({{ '/research-systems/' | relative_url }})
+
 
 Much of my work starts from a simple observation: classical i.i.d.-based intuition often fails in the settings that matter most for modern ML, including graph-structured data, sequential dependence, and constrained inference. In these regimes, nominal sample size can be a poor proxy for effective information, and performance may be limited by dependence, mixing, or computational budget rather than model capacity alone. My approach is to identify the relevant structural regime, prove sharp lower/upper bounds where possible, and use those results to design diagnostics, algorithms, and evaluation protocols that remain meaningful in practice.
 
