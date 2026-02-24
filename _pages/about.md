@@ -27,13 +27,14 @@ I am a Postdoctoral Research Fellow and Adjunct Faculty in Electrical & Computer
 
 My work spans two linked threads: **(i)** foundations of learning under dependence (including minimax lower bounds, regime characterization, and structure-aware complexity, especially for graph-structured learning), and **(ii)** efficient and reliable inference in modern ML systems, including large-model inference and resource-constrained settings. I also build theory-grounded evaluation pipelines and diagnostics in networked/autonomous environments as stress tests for deployable learning methods.
 
-<div style="max-width: 680px; width: 100%; margin: 18px 0 12px 0;">
+<div style="max-width: 680px; margin: 18px 0 12px 0; display: flow-root; box-sizing: border-box;">
   <div style="
     background: #f6f8fa;
     border: 1px solid #e5e7eb;
     border-left: 4px solid #22c55e;
     padding: 12px 14px;
     border-radius: 10px;
+    box-sizing: border-box;
   ">
     <div style="font-size: 0.92rem; font-weight: 700; margin-bottom: 6px;">
       Research focus
