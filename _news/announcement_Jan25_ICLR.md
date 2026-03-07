@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper, *Minimax Sample Complexity of Graph Neural Networks: Lower Bounds and Structural Effects*, has been accepted to ICLR 2026.  
-[Read the paper](https://openreview.net/pdf?id=P2GIT8LpV2) :sparkles:
+Our paper, *Minimax Sample Complexity of Graph Neural Networks: Lower Bounds and Structural Effects*, has been accepted to ICLR 2026. [Read the paper](https://openreview.net/pdf?id=P2GIT8LpV2) :sparkles:
