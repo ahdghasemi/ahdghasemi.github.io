@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper, *Constant-Speed Trajectory Processes for Uniform Coverage in UAV Networks*, appeared in the proceedings of the 59th Annual Conference on Information Sciences and Systems (CISS 2025).  
-[Read the paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10944663) :sparkles:
+Our paper, *Constant-Speed Trajectory Processes for Uniform Coverage in UAV Networks*, appeared in the proceedings of the 59th Annual Conference on Information Sciences and Systems (CISS 2025). [Read the paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10944663) :sparkles:
