@@ -25,27 +25,7 @@ social: true
 
 I am a Postdoctoral Research Fellow and Adjunct Faculty in Electrical & Computer Engineering at the University of Massachusetts Amherst. My research lies in the **foundations of machine learning**, with a focus on **graph-structured learning**, **learning under dependence**, and **structure-aware complexity**. I study how graph topology, statistical dependence, and problem geometry alter the effective difficulty of estimation and generalization, and how these structural effects should inform both theory and algorithm design.
 
-<div style="max-width: 680px; margin: 18px 0 12px 0; display: flow-root; box-sizing: border-box;">
-  <div style="
-    background: #f6f8fa;
-    border: 1px solid #e5e7eb;
-    border-left: 4px solid #22c55e;
-    padding: 12px 14px;
-    border-radius: 10px;
-    box-sizing: border-box;
-  ">
-    <div style="font-size: 0.92rem; font-weight: 700; margin-bottom: 6px;">
-      Research focus
-    </div>
-    <div style="font-size: 0.92rem; line-height: 1.45;">
-      I work on <b>structure-dependent statistical and algorithmic complexity</b> in modern ML,
-      especially in <b>graph learning</b>, <b>minimax analysis</b>, and
-      <b>efficient inference under real-world constraints</b>.
-    </div>
-  </div>
-</div>
-
-### Quick pathways
+#### Quick pathways
 - **Theory overview (graph learning, minimax theory, learning under dependence):** [Open]({{ '/research-theory/' | relative_url }})
 - **Systems / CPS / Edge AI overview (deployable ML, autonomy, resource-aware inference):** [Open]({{ '/research-systems/' | relative_url }})
 
