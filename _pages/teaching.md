@@ -5,7 +5,7 @@ title: Teaching
 description: |
   I teach ML, generative models, DSP, image processing, and data science foundations, with an emphasis on linking theory to reproducible engineering practice. My goal is to help students move from technical familiarity to research-grade reasoning: specifying assumptions, building meaningful baselines, debugging under shift and partial observability, and justifying accuracy–reliability–cost tradeoffs.
 
-  My UMass evaluations reflect strong execution and clarity (**recent instructor effectiveness 4.7/5.0**, with **5.0/5.0** on preparation and use of class time in a recent offering).
+  My UMass evaluations reflect strong execution and clarity (<strong>recent instructor effectiveness 4.7/5.0</strong>, with <strong>5.0/5.0</strong> on preparation and use of class time in a recent offering).
 nav: true
 nav_order: 6
 
