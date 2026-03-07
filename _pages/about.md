@@ -31,7 +31,7 @@ I am a Postdoctoral Research Fellow and Adjunct Faculty in Electrical & Computer
 
 Much of my work starts from a simple observation: classical i.i.d.-based intuition often breaks down in the graph-structured and dependent settings that matter most in modern machine learning. In these regimes, nominal sample size can be a poor proxy for effective information, and performance may be limited by topology, dependence, or computational budget rather than model capacity alone. My goal is to characterize these regimes clearly and use that understanding to build sharper theory, better diagnostics, and more meaningful evaluation protocols.
 
-### Active projects
+#### Active projects
 
 - **Minimax sample complexity of GNNs under topology and dependence (ICLR 2026):** I developed minimax lower bounds and structural regime characterizations for message-passing GNNs, identifying when generalization follows classical sample-size behavior and when graph-induced dependence and mixing constraints dominate effective sample complexity.
 
@@ -41,7 +41,7 @@ Much of my work starts from a simple observation: classical i.i.d.-based intuiti
 
 - **NSF CPS AERIAL (Co-PI):** I lead work on trustworthy and budget-aware learning-and-control and digital-twin validation protocols for UAV swarm autonomy, with emphasis on reliability metrics, stress testing, and evaluation under operational constraints.
 
-### Research agenda
+#### Research agenda
 My current agenda has three connected directions:
 
 1. **Learning under dependence:** minimax limits, regime characterization, and effective sample-size phenomena in graph and sequential settings.
