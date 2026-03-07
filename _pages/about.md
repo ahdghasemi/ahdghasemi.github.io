@@ -53,7 +53,7 @@ My work centers on two linked threads: **(i)** theoretical foundations of learni
 
 Much of my work starts from a simple observation: classical i.i.d.-based intuition often breaks down in the graph-structured and dependent settings that matter most for modern machine learning. In these regimes, nominal sample size can be a poor proxy for effective information, and performance may be limited by topology, dependence, or computational budget rather than model capacity alone. My approach is to identify the relevant structural regime, prove sharp lower or upper bounds where possible, and use those results to design algorithms, diagnostics, and evaluation protocols that remain meaningful in practice.
 
-### Active projects and proof points
+### Active projects
 
 - **Minimax sample complexity of GNNs under topology and dependence (ICLR 2026):** I developed minimax lower bounds and structural regime characterizations for message-passing GNNs, identifying when generalization follows classical sample-size behavior versus when graph-induced dependence and mixing constraints dominate effective sample complexity.
 
@@ -71,13 +71,5 @@ My current research agenda centers on **graph-structured learning and structure-
 3. **Efficient and reliable inference:** adaptive computation, confidence-aware stopping, and compute-quality tradeoffs for large models and constrained deployments.
 
 Across these directions, I aim to combine theorem-level analysis with theory-grounded empirical diagnostics that distinguish structural regimes and test predicted scaling behavior.
-
-### Teaching
-I teach ML, generative models, DSP, image processing, and data science foundations, with an emphasis on linking theory to reproducible engineering practice. My goal is to help students move from technical familiarity to research-grade reasoning: specifying assumptions, building meaningful baselines, debugging under shift and partial observability, and justifying accuracy–reliability–cost tradeoffs.
-My UMass evaluations reflect strong execution and clarity (**recent instructor effectiveness 4.7/5.0**, with **5.0/5.0** on preparation and use of class time in a recent offering). 
-
-### Students, collaborators, and funding
-I am building research around shared interfaces that make systems dependable in practice: **reliability contracts, telemetry/monitoring, and trace-based evaluation suites** spanning Networking/IoT, embedded/SoC, and autonomy.  
-I currently mentor PhD and undergraduate researchers and regularly collaborate across ML systems and wireless/autonomy. 
 
 **I welcome collaborations in graph algorithms, theoretical machine learning, graph learning, learning under dependence, and structure-aware complexity.**
