@@ -3,17 +3,11 @@ layout: profiles
 permalink: /teaching/
 title: Teaching
 description: |
-  <p>
 I teach machine learning, generative AI, digital signal processing, image processing, and mathematical foundations for data science, with an emphasis on connecting theory to reproducible engineering practice. My goal is to help students move beyond technical familiarity toward deeper professional and research judgment: making assumptions explicit, building meaningful baselines, debugging under shift and partial observability, and evaluating accuracy, reliability, and cost tradeoffs in real AI and machine learning systems.
-</p>
 
-<p>
 My teaching is designed for interactive, student-centered learning, especially in graduate and professionally oriented settings. I use structured discussion, guided implementation, comparative analysis of methods, and timely, actionable feedback to help students build both conceptual depth and practical judgment. I care about clear course organization, inclusive pedagogy, and creating learning environments in which students can connect core ideas in machine learning and data science to real deployment and decision-making contexts.
-</p>
 
-<p>
 Selected student evaluations at UMass Amherst have highlighted strong course preparation, effective use of class time, and support for student learning, including an overall instructor rating of <strong>4.7/5.0</strong> in a recent graduate course offering.
-</p>
 nav: true
 nav_order: 6
 
