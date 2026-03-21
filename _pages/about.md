@@ -19,7 +19,7 @@ profile:
 
 news: true
 latest_posts: false
-selected_papers: true
+selected_papers: false
 social: true
 ---
 
