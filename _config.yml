@@ -30,7 +30,7 @@ impressum_path:  # set to path to include impressum link in the footer, use the 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=wLnXG1sAAAAJ&hl=en
 cv_link: /assets/pdf/Ahmad_Ghasemi_Resume.pdf
-github_link: https://github.com/ahdghasemi
+#github_link: https://github.com/ahdghasemi
 linkedin: https://www.linkedin.com/in/ahmad-ghasemi-9b14ab40
 #twitter: https://twitter.com/
 # email_image: ./assets/img/email.png  # Add this line with the path to your email image
