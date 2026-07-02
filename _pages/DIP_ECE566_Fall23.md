@@ -1,6 +1,6 @@
 ## Digital Image Processing
 
-In the Fall of 2023, I had the privilege of instructing 15 graduate and undergraduate students in **Digital Image Processing** course at the University of Massachusetts Amherst (UMass Amherst). This course was designed to equip students with both foundational and advanced knowledge in the field of digital image processing.
+I taught **Digital Image Processing** in Fall 2023 to 15 graduate and undergraduate students at UMass Amherst. This course was designed to equip students with both foundational and advanced knowledge in the field of digital image processing.
 
 ### Course Overview
 
