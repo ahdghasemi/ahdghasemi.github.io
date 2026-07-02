@@ -4,7 +4,7 @@ title: Theory-Focused Research
 permalink: /research-theory/
 nav: true
 nav_order: 3
-description: Foundations of ML, GNN theory, generative modeling theory, and complexity under dependence
+description: Foundations of graph learning, GNN theory, minimax complexity, and learning under dependence
 ---
 
 My theory-focused work studies the **foundations of machine learning under dependence**, with emphasis on **statistical complexity**, **minimax analysis**, **lower bounds**, and **structure-aware learning theory**. A recurring goal is to identify regimes where classical i.i.d.-based intuition breaks down, characterize the resulting statistical limits, and derive consequences for learning, inference, and sampling.
