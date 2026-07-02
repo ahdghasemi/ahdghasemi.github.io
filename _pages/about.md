@@ -43,4 +43,30 @@ Much of my work starts from a simple observation: classical i.i.d. intuition oft
 
 - **Trustworthy autonomy in UAV systems (NSF CPS AERIAL):** reliability metrics and validation protocols for learning-enabled autonomous swarms.
 
+#### Selected publications
+
+- **Minimax Sample Complexity of Graph Neural Networks: Lower Bounds and Structural Effects**  
+  Ahmad Ghasemi and Hossein Pishro-Nik.  
+  *International Conference on Learning Representations (ICLR), 2026.*  
+  [Read the paper](https://openreview.net/pdf?id=P2GIT8LpV2)
+
+- **Constrained Optimization for Low-Rank Training of Graph Neural Networks**  
+  Sajjad Amini*, Ahmad Ghasemi*, and Hossein Pishro-Nik.  
+  *Under review.*
+
+- **CGES: Confidence-Guided Early Stopping for Efficient and Accurate Self-Consistency**  
+  Ehsan Aghazade, Ahmad Ghasemi, Hamed Beyhaghi, and Hossein Pishro-Nik.  
+  *Efficient Reasoning Workshop @ NeurIPS 2025, Spotlight.*  
+  [Read the paper](https://arxiv.org/pdf/2511.02603)
+
+- **Adversarial Attacks on Graph Neural Networks-Based Spatial Resource Management in P2P Wireless Communications**  
+  Ahmad Ghasemi, Erfan Zeraatkar, Morteza Moradikia, and Reza Zekavat.  
+  *IEEE Transactions on Vehicular Technology, 2024.*  
+  [Read the paper](https://doi.org/10.1109/TVT.2024.3358505)
+
+- **Tiny Graph Neural Networks for Radio Resource Management**  
+  Ahmad Ghasemi and Hossein Pishro-Nik.  
+  *tinyML Research Symposium, 2024.*  
+  [Read the paper](https://dl.acm.org/doi/10.1145/3662033.3662036)
+
 **I welcome collaborations in graph algorithms, theoretical machine learning, graph learning, and learning under dependence.**
