@@ -29,4 +29,4 @@ The **Machine Learning for Engineers** course offered a robust exploration of ke
 
 ### Hands-On Projects
 
-Practical application was a cornerstone of the course, with projects designed to challenge students to apply machine learning algorithms, including GNNs and LLMs, to real-world engineering problems. These projects will fostere not only technical skills but also critical thinking and innovation.
+Practical application was a cornerstone of the course, with projects designed to challenge students to apply machine learning algorithms, including GNNs and LLMs, to real-world engineering problems. These projects fostered not only technical skills but also critical thinking and innovation.
