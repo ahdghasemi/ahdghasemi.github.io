@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Theory-Focused Research
+title: Theory Research
 permalink: /research-theory/
 nav: true
 nav_order: 3
