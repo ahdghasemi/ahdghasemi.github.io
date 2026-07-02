@@ -27,7 +27,7 @@ I am a Postdoctoral Research Fellow and Adjunct Faculty in Electrical & Computer
 
 #### Quick pathways
 - **Theory overview (graph learning, minimax theory, learning under dependence):** [Open]({{ '/research-theory/' | relative_url }})
-- **Systems / CPS / Edge AI overview (deployable ML, autonomy, resource-aware inference):** [Open]({{ '/research-systems/' | relative_url }})
+- **Systems overview (deployable ML, autonomy, resource-aware inference):** [Open]({{ '/research-systems/' | relative_url }})
 
 Much of my work starts from a simple observation: classical i.i.d. intuition often breaks down in the graph-structured and dependent settings that matter most in modern machine learning. In these regimes, nominal sample size can be a poor proxy for effective information, and performance may be limited by topology, dependence, or computational budget rather than model capacity alone. My goal is to characterize these limits clearly and use that understanding to develop sharper theory, better diagnostics, and evaluation protocols that remain meaningful in practice.
 
