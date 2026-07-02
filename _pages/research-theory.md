@@ -13,9 +13,11 @@ My theory-focused work studies the **foundations of machine learning under depen
 
 - **Minimax learning theory for graph-structured models:** I study how graph topology, dependence, and mixing properties affect the effective sample complexity of message-passing architectures. My recent ICLR 2026 paper develops minimax lower bounds and structural regime characterizations for ReLU message-passing GNNs, showing that slowly mixing graphs can induce substantially harder rates than classical sample-size scaling would suggest.
 
-- **Structure-aware complexity in generative modeling:** I am extending this line of work to the theory of generative modeling, with current interest in the complexity of score estimation in diffusion-based models, error propagation from score estimation to sampling quality, and statistical-computational tradeoffs in sequence-structured settings. A central question is how dependence structure governs both statistical and algorithmic difficulty.
+- **Locality, structure, and decision-making:** I am interested in when local graph representations and message-passing architectures are sufficient for learning on structured decision-making problems. A central question is how graph geometry, dependence, and problem stability affect whether learned policies generalize across instance sizes and distributions.
 
-- **Inference-time complexity and compute-quality tradeoffs:** I also study how budget constraints at inference time interact with estimation and decision quality in large models, including confidence-guided stopping and adaptive computation. This provides a bridge between formal complexity questions and deployment-relevant behavior.
+- **Inference-time complexity and compute-quality tradeoffs:** I study how budget constraints at inference time interact with estimation and decision quality in large models, including confidence-guided stopping and adaptive computation. This provides a bridge between formal complexity questions and deployment-relevant behavior.
+
+- **Structure-aware complexity in generative modeling:** I also study how dependence structure affects statistical and computational difficulty in generative modeling, including score estimation in diffusion-based models, error propagation from score estimation to sampling quality, and sequence-structured settings.
 
 ### Selected papers
 - **ICLR 2026 (accepted):** *Minimax Sample Complexity of Graph Neural Networks: Lower Bounds and Structural Effects*
