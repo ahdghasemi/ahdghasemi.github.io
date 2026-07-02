@@ -1,6 +1,6 @@
 ## Machine Learning for Engineers
 
-I'm instructing a graduate-level course, **Machine Learning for Engineers**, at the University of Massachusetts Amherst (UMass Amherst) this Spring. This course, with 64 registered students, has been meticulously designed to cover the breadth and depth of machine learning, with a special emphasis on its applications in engineering. From foundational principles to cutting-edge technologies, the curriculum has been tailored to empower students to harness the potential of machine learning in solving complex engineering challenges.
+I taught **Machine Learning for Engineers**, a graduate-level course at UMass Amherst with 140 registered students. This course has been meticulously designed to cover the breadth and depth of machine learning, with a special emphasis on its applications in engineering. From foundational principles to cutting-edge technologies, the curriculum has been tailored to empower students to harness the potential of machine learning in solving complex engineering challenges.
 
 ### Course Highlights
 
