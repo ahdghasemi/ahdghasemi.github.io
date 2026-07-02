@@ -1,6 +1,6 @@
 ## Digital Signal Processing
 
-In the Fall of 2024, I'm instructing a graduate-level course, **Digital Signal Processing (DSP)**, at the University of Massachusetts Amherst (UMass Amherst). This course, designed for 48 registered students, focuses on the theory, algorithms, and practical applications of signal processing, with a strong emphasis on engineering challenges and solutions. The curriculum has been tailored to provide students with both foundational knowledge and hands-on experience in processing digital signals across various domains.
+I taught **Digital Signal Processing** in Fall 2024, a graduate-level course at UMass Amherst with 48 registered students. This course focuses on the theory, algorithms, and practical applications of signal processing, with a strong emphasis on engineering challenges and solutions. The curriculum has been tailored to provide students with both foundational knowledge and hands-on experience in processing digital signals across various domains.
 
 ### Course Highlights
 
