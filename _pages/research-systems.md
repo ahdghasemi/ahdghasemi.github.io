@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Systems / CPS / Edge AI Research
+title: Systems Research
 permalink: /research-systems/
 nav: true
 nav_order: 4
