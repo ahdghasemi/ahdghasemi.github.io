@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our NSF proposal, titled "*AERIAL (AI-Embedded Responsive Intelligent Agents with Trajectory-Induced Digital Twin Learning*" is awarded by National Science Foundation (NSF). [Read the Award Details](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2528914) :sparkles:
-
+Our NSF CPS proposal, "*AERIAL (AI-Embedded Responsive Intelligent Agents with Trajectory-Induced Digital Twin Learning*," was awarded by the National Science Foundation (NSF). [Read the Award Details](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2528914) :sparkles:
