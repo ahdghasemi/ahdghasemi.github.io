@@ -35,6 +35,8 @@ Much of my work starts from a simple observation: classical i.i.d. intuition oft
 
 - **Minimax limits of graph neural networks:** characterizing when topology and dependence fundamentally limit generalization in message-passing architectures.
 
+- **Local graph learning for structured decision-making**: studying when message-passing architectures can support reliable learning across structured optimization and decision problems.
+
 - **Deployable graph learning:** low-rank and constrained training methods that control inference cost under latency, memory, and energy budgets.
 
 - **Confidence-guided inference for large models (CGES):** adaptive stopping rules that reduce compute while preserving reasoning accuracy.
