@@ -7,7 +7,7 @@ nav_order: 4
 description: Dependable and resource-aware ML systems for networked autonomy and constrained deployment
 ---
 
-My systems-focused work builds **dependable and resource-aware ML systems** for **networked, resource-constrained platforms**, including IoT, embedded systems, CPS, and multi-agent autonomy. I am especially interested in settings where decisions must be made under hard constraints on latency, energy, and memory, and where distribution shift and partial observability are part of normal operation rather than edge cases.
+My systems-focused work builds **dependable and resource-aware ML systems** for decision-making under uncertainty in networked, resource-constrained platforms, including IoT, embedded systems, CPS, and multi-agent autonomy. I am especially interested in settings where decisions must be made under hard constraints on latency, energy, and memory, and where distribution shift and partial observability are part of normal operation rather than edge cases.
 
 ### Current themes
 
