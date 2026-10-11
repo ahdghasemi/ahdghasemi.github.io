@@ -23,7 +23,7 @@ selected_papers: false
 social: true
 ---
 
-I am a Postdoctoral Research Fellow and Adjunct Faculty in Electrical & Computer Engineering at the University of Massachusetts Amherst. My research is in the **foundations of machine learning**, with a focus on **graph-structured learning**, **learning under dependence**, and **structure-aware complexity**. I study how graph topology, statistical dependence, and problem geometry change the effective difficulty of estimation and generalization, and how these structural effects should inform both theory and algorithm design.
+I am an Assistant Professor of Data Science at Florida Polytechnic University, following appointments as a Postdoctoral Research Fellow and Adjunct Faculty in Electrical & Computer Engineering at the University of Massachusetts Amherst. My research is in the **foundations of machine learning**, with a focus on **graph-structured learning**, **learning under dependence**, and **structure-aware complexity**. I study how graph topology, statistical dependence, and problem geometry change the effective difficulty of estimation and generalization, and how these structural effects should inform both theory and algorithm design.
 
 #### Quick pathways
 - **Theory overview (graph learning, minimax theory, learning under dependence):** [Open]({{ '/research-theory/' | relative_url }})
@@ -35,13 +35,13 @@ Much of my work starts from a simple observation: classical i.i.d. intuition oft
 
 - **Minimax limits of graph neural networks:** characterizing when topology and dependence fundamentally limit generalization in message-passing architectures.
 
-- **Local graph learning for structured decision-making**: studying when message-passing architectures can support reliable learning across structured optimization and decision problems.
+- **Local graph learning for structured decision-making:** studying when message-passing architectures can support reliable learning across structured optimization and decision problems.
 
 - **Deployable graph learning:** low-rank and constrained training methods that control inference cost under latency, memory, and energy budgets.
 
 - **Confidence-guided inference for large models (CGES):** adaptive stopping rules that reduce compute while preserving reasoning accuracy.
 
-- **Trustworthy autonomy in UAV systems (NSF CPS AERIAL):** reliability metrics and validation protocols for learning-enabled autonomous swarms.
+- **Trustworthy autonomy in UAV systems (NSF CPS AERIAL):** reliability metrics and validation protocols for learning-enabled autonomous swarms. I continue contributing as Co-PI and mentoring undergraduate and doctoral researchers at UMass Amherst.
 
 #### Selected publications
 
@@ -55,7 +55,7 @@ Much of my work starts from a simple observation: classical i.i.d. intuition oft
   *Under review.*
 
 - **CGES: Confidence-Guided Early Stopping for Efficient and Accurate Self-Consistency**  
-  Ehsan Aghazade, Ahmad Ghasemi, Hamed Beyhaghi, and Hossein Pishro-Nik.  
+  Ehsan Aghazadeh, Ahmad Ghasemi, Hamed Beyhaghi, and Hossein Pishro-Nik.  
   *Efficient Reasoning Workshop @ NeurIPS 2025, Spotlight.*  
   [Read the paper](https://arxiv.org/pdf/2511.02603)
 
