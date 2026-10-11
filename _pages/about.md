@@ -15,7 +15,7 @@ profile:
   more_info: |
     <p>Department of Electrical & Computer Engineering</p>
     <p>University of Massachusetts Amherst</p>
-    <p><mark> aghasemi (at) umass [dot] edu </mark></p>
+    <p><mark> aghasemi (at) floridapoly [dot] edu </mark></p>
 
 news: true
 latest_posts: false
