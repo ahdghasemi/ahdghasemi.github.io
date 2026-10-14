@@ -13,8 +13,8 @@ profile:
   image: 20190309_105621_ahmad.jpg
   image_circular: false
   more_info: |
-    <p>Department of Electrical & Computer Engineering</p>
-    <p>University of Massachusetts Amherst</p>
+    <p>Department of Data Science & Business Analytics</p>
+    <p>Florida Polytechnic University</p>
     <p><mark> aghasemi (at) floridapoly [dot] edu </mark></p>
 
 news: true
