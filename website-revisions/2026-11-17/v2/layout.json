@@ -1,0 +1,57 @@
+{
+  "version": "V2 Research Showcase",
+  "updated": "2026-11-17",
+  "platform": "Google Sites",
+  "desktop": {
+    "grid_columns": 12,
+    "columns": [
+      {
+        "start": 0,
+        "span": 4,
+        "content": [
+          "portrait",
+          "social links"
+        ]
+      },
+      {
+        "start": 4,
+        "span": 4,
+        "content": [
+          "name-block.html",
+          "introduction.html"
+        ]
+      },
+      {
+        "start": 8,
+        "span": 4,
+        "content": [
+          "showcase-heading.html",
+          "paper-viewer.html"
+        ]
+      }
+    ],
+    "viewer_editor_dimensions_px": {
+      "width": 272,
+      "height": 400
+    }
+  },
+  "mobile": {
+    "order": [
+      "portrait and social links",
+      "name and introduction",
+      "Research in motion heading and paper viewer"
+    ],
+    "all_five_panels_client_and_scroll_height_px": 386
+  },
+  "following_sections": [
+    "Research & education at a glance",
+    "evidence cards"
+  ],
+  "preserved": [
+    "four rotating header carousels",
+    "all five papers",
+    "V1 baseline"
+  ],
+  "publication_state": "unpublished draft",
+  "note": "Native Google Sites layout is recorded here for reproducibility; this JSON is documentation, not an automatic deployment format."
+}

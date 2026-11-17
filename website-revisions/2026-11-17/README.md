@@ -5,7 +5,7 @@ This branch preserves portable source and assets for the Google Sites V2 researc
 ## Versions
 
 - **V1 Preserved Baseline — 2026-11-17:** the complete original Google Sites draft remains separate. The `v1/` directory records the original paper viewer and introduction; it is not a complete Google Sites export.
-- **V2 Research Showcase — 2026-11-17:** separate draft with a shorter introduction, the five-paper viewer immediately after the introduction and before the evidence cards, updated research headings, and refreshed carousel imagery.
+- **V2 Research Showcase — 2026-11-17:** separate draft with a shorter introduction, a three-column introduction (portrait, biography, and five-paper viewer) before the evidence cards, updated research headings, and refreshed carousel imagery.
 
 The current Google Sites native layout remains maintained in Google Sites. These files are a source checkpoint, not automatic two-way synchronization.
 
@@ -13,7 +13,7 @@ The current Google Sites native layout remains maintained in Google Sites. These
 
 `v2/paper-viewer.html` is self-contained HTML/CSS/JavaScript for Google Sites Embed code or later use in GitHub Pages. It includes Tiny Flow Matching, CGES, the ICLR 2026 GNN sample-complexity paper, Ergodic Trajectory Design, and Tiny Graph Neural Networks. Controls support scrolling, previous/next buttons, optional autoplay, keyboard arrows, and reduced-motion preferences. Tiny Flow Matching uses a paper-request link because a verified public full-text URL was not available.
 
-Keep the Google Sites iframe in a portrait proportion (approximately 420 × 600 in the editor). The embed's height scales on mobile; making it very wide and short can truncate the content.
+Keep the Google Sites iframe in a portrait proportion (approximately 272 × 400 in the editor for the four-column side panel). The embed's height scales on mobile; making it very wide and short can truncate the content.
 
 ## Image provenance
 
@@ -43,8 +43,14 @@ A general website PDF was saved privately in the existing Google Drive data fold
 
 The first three rotating carousels now lead with the updated graph-foundations, confidence-guided reasoning, and compact-GNN concept illustrations; their earlier supporting images remain available. The UAV carousel now rotates between the Milano rank-sweep graphic and the manuscript’s cross-dataset coverage plot. All four carousel features are preserved.
 
-V2 was saved as an unpublished Google Sites draft. Desktop and phone previews were inspected. All five paper panels fit the mobile iframe without vertical clipping (client height and content height both 372 px). Previous/next navigation and autoplay advancing to the next paper were checked; autoplay was then paused. Teaching and mentoring remain separate.
+The initial stacked V2 layout was saved as an unpublished Google Sites draft. Desktop and phone previews were inspected. All five paper panels fit the mobile iframe without vertical clipping (client height and content height both 372 px). Previous/next navigation and autoplay advancing to the next paper were checked; autoplay was then paused. Teaching and mentoring remain separate.
 
 ## CV-update validation
 
-All revised Google Sites page text was saved in the separate V2 draft. Desktop teaching and evidence-card previews were checked. The five paper panels still fit the phone iframe (372 px client/content height); paper navigation worked. The supplied five-page CV and the private website copy have identical extracted body text after removal of the application running header, and all pages render.
+Before the side-by-side layout revision, all revised Google Sites page text was saved in the separate V2 draft. Desktop teaching and evidence-card previews were checked. The five paper panels still fit the phone iframe (372 px client/content height); paper navigation worked. The supplied five-page CV and the private website copy have identical extracted body text after removal of the application running header, and all pages render.
+
+## Side-by-side introduction layout
+
+At the user’s request, the homepage introduction now uses three equal native Google Sites columns: portrait/social links on the left, the existing introduction in the middle, and Research in motion with the five-paper viewer on the right. The viewer’s separate full-width heading and section were moved into the right column. Blank title/biography paragraphs were removed, and the name block was reduced to 22 pt for the narrower column. All substantive biography text is retained.
+
+The viewer measures approximately 272 × 400 px in the editor. Desktop preview was visually checked; mobile stacks the three columns in reading order. All five mobile panels had matching client/content heights of 386 px, and next/previous navigation worked. The rotating header carousels, evidence cards, V1 baseline, and unpublished status remain intact. See `v2/layout.json`, `v2/name-block.html`, and `v2/showcase-heading.html` for the layout checkpoint.
