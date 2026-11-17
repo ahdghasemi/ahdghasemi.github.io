@@ -5,7 +5,7 @@ This branch preserves portable source and assets for the Google Sites V2 researc
 ## Versions
 
 - **V1 Preserved Baseline — 2026-11-17:** the complete original Google Sites draft remains separate. The `v1/` directory records the original paper viewer and introduction; it is not a complete Google Sites export.
-- **V2 Research Showcase — 2026-11-17:** separate draft with a shorter introduction, the five-paper viewer immediately after the introduction and before the evidence cards, updated research headings, and prepared carousel assets.
+- **V2 Research Showcase — 2026-11-17:** separate draft with a shorter introduction, the five-paper viewer immediately after the introduction and before the evidence cards, updated research headings, and refreshed carousel imagery.
 
 The current Google Sites native layout remains maintained in Google Sites. These files are a source checkpoint, not automatic two-way synchronization.
 
@@ -27,3 +27,9 @@ For Milano rank 4: retained dense-model coverage correlation 99.45%; selected-la
 ## Pending content reconciliation
 
 The newly mentioned CV was not available as an attachment or among the accessible source files. No claim is made that V2 has been reconciled against that new CV. Teaching remains 258 UMass + 77 Florida Polytechnic course enrollments (335), separately from research mentorship.
+
+## Applied carousel changes and checks
+
+The first three rotating carousels now lead with the updated graph-foundations, confidence-guided reasoning, and compact-GNN concept illustrations; their earlier supporting images remain available. The UAV carousel now rotates between the Milano rank-sweep graphic and the manuscript’s cross-dataset coverage plot. All four carousel features are preserved.
+
+V2 was saved as an unpublished Google Sites draft. Desktop and phone previews were inspected. All five paper panels fit the mobile iframe without vertical clipping (client height and content height both 372 px). Previous/next navigation and autoplay advancing to the next paper were checked; autoplay was then paused. Teaching and mentoring remain separate.
