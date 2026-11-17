@@ -54,3 +54,15 @@ Before the side-by-side layout revision, all revised Google Sites page text was 
 At the user’s request, the homepage introduction now uses three equal native Google Sites columns: portrait/social links on the left, the existing introduction in the middle, and Research in motion with the five-paper viewer on the right. The viewer’s separate full-width heading and section were moved into the right column. Blank title/biography paragraphs were removed, and the name block was reduced to 22 pt for the narrower column. All substantive biography text is retained.
 
 The viewer measures approximately 272 × 400 px in the editor. Desktop preview was visually checked; mobile stacks the three columns in reading order. All five mobile panels had matching client/content heights of 386 px, and next/previous navigation worked. The rotating header carousels, evidence cards, V1 baseline, and unpublished status remain intact. See `v2/layout.json`, `v2/name-block.html`, and `v2/showcase-heading.html` for the layout checkpoint.
+
+## Compact overview and content consolidation
+
+Replaced the oversized two-column fixed-height evidence embed with two native three-column rows. Desktop height is approximately half the former cards; phone layout stacks readable text without iframe downscaling. The six highlights cover selected venues, NSF funding, all three degrees, 335 classroom enrollments, 14 research mentees, and award/service evidence. Classroom and mentoring counts remain separate. `overview-native.json` records the native text blocks; `evidence-cards.html` is a portable responsive equivalent, no longer the live iframe.
+
+Removed the homepage “Research code” link, the old GitHub Pages social shortcut, and profile-level GitHub links from Research, CV, and Contact. Paper-specific code links in the viewer remain. Added theory/systems perspectives and clearly labeled future research questions from the older website, together with specific ML and image-processing course experiences. New CV dates, counts, and publication statuses override conflicting older-site figures.
+
+Source pages consulted: `_pages/research-theory.md`, `_pages/research-systems.md`, `_pages/teaching.md`, `_pages/ML4Eng_ECE601_Sp24.md`, and `_pages/DIP_ECE566_Fall23.md` on master, together with https://ahdghasemi.github.io/. No generic template content was imported.
+
+The blank UAV slide had no image resource. Replaced it with `tiny-flow-cross-dataset-card.png`, which frames the original Figure 2 intact within a square slide. Uploaded the image to the existing Drive data folder and selected it through the native image picker. After reloading the saved draft, both UAV slides have persistent image resources and 1200 × 1200 dimensions. All four native rotating carousels and the five-paper viewer remain.
+
+Desktop and mobile overview previews checked. The three-column portrait/biography/viewer arrangement is retained. V2 remains an unpublished draft; V1 and the live GitHub Pages site remain unchanged.

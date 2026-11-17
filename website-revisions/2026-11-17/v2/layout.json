@@ -53,5 +53,18 @@
     "V1 baseline"
   ],
   "publication_state": "unpublished draft",
-  "note": "Native Google Sites layout is recorded here for reproducibility; this JSON is documentation, not an automatic deployment format."
+  "note": "Native Google Sites layout is recorded here for reproducibility; this JSON is documentation, not an automatic deployment format.",
+  "overview": {
+    "heading": "Research, teaching & education",
+    "implementation": "Two native Google Sites sections, each with three text columns; Style 2 background; responsive single-column mobile stacking. The old fixed-height evidence iframe was removed.",
+    "native_source": "overview-native.json",
+    "portable_equivalent": "evidence-cards.html"
+  },
+  "uav_carousel": {
+    "images": [
+      "assets/tiny-flow-cross-dataset-card.png",
+      "assets/tiny-flow-milano.png"
+    ],
+    "verified": "Both images persisted after reloading the draft; 1200 x 1200 assets. Cross-dataset original Figure 2 is fitted intact to a square card, not cropped."
+  }
 }
